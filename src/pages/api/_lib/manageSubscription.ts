@@ -46,8 +46,6 @@ export async function saveSubscription(subscriptionId: string, custumerId: strin
                 { data: subscriptionData }
             )
         )
-
-
     }
 
 }
